@@ -9,4 +9,10 @@ let allVideos = [
       src: "./radioupdate2",
       id: "vid_1"
    },
- ]
+
+    {
+      name: "Alha blondy",
+      src: "./radioupdate3",
+      id: "vid_1"
+   },
+ ]]
